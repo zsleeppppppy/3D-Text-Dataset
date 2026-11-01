@@ -1,0 +1,11 @@
+# Smoke-test PubChem CIDs. One CID per line.
+# Aspirin
+2244
+# Caffeine
+2519
+# Ibuprofen
+3672
+# Acetaminophen
+1983
+# Dopamine
+681
